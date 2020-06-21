@@ -1,4 +1,4 @@
-# quiz_maximum
+# quiz
 
 A new Flutter application.
 
